@@ -1,0 +1,14 @@
+
+img{
+    width: 20%;
+    border-radius: 60px;
+}
+button{
+    width: 200px;
+}
+p{
+    font-size: medium;
+}
+body{
+    background-color: rgb(25, 43, 90);
+}
